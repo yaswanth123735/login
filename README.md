@@ -1,2 +1,2 @@
 # login
-[output]{https://login69.herokuapp.com/}
+[output](https://login69.herokuapp.com/)
